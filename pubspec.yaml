@@ -11,9 +11,9 @@ dependencies:
   flutter:
     sdk: flutter
     
-  # flutter_facebook_auth_platform_interface: ^6.0.0
-  flutter_facebook_auth_platform_interface:
-    path: lib/facebook_auth_platform_interface
+  flutter_facebook_auth_platform_interface: ^6.0.0
+  # flutter_facebook_auth_platform_interface:
+    # path: /lib/facebook_auth_platform_interface
   
 
 dev_dependencies:
